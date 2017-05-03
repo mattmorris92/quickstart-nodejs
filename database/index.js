@@ -15,6 +15,8 @@
  */
 'use strict';
 
+// this is a note for myself to check committing
+
 // [START imports]
 var firebase = require('firebase-admin');
 // [END imports]
